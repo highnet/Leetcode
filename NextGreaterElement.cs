@@ -10,7 +10,7 @@ Explanation:
     For number 4 in the first array, you cannot find the next greater number for it in the second array, so output -1.
     For number 1 in the first array, the next greater number for it in the second array is 3.
     For number 2 in the first array, there is no next greater number for it in the second array, so output -1.
-    /*
+    */
     
     public class Solution {
     public int[] NextGreaterElement(int[] nums1, int[] nums2) {
